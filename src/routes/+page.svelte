@@ -15,6 +15,15 @@
   </div>
 </header>
 
+<!-- Banner Section -->
+<section class="bg-blue-600 text-white py-4">
+  <div class="container mx-auto px-6 text-center">
+    <p class="text-lg font-semibold">
+      🚀 Our community forum has moved! Visit us now at <a href="https://forum.stealthvalley.com" class="font-bold underline">forum.stealthvalley.com</a>. We're building a platform to support collaboration and innovation! 🎉
+    </p>
+  </div>
+</section>
+
 <!-- Hero Section -->
 <section class="bg-white shadow">
   <div class="container mx-auto px-6 py-16 text-center">
