@@ -5,7 +5,7 @@
     <div class="text-lg font-bold text-gray-900">StealthValley</div>
     <!-- Navigation Buttons -->
     <div class="space-x-4">
-      <a href="/forum" class="text-blue-600 font-semibold hover:underline"
+      <a href="https://forum.stealthvalley.com" class="text-blue-600 font-semibold hover:underline"
         >The Forum</a
       >
       <a href="/contact" class="text-blue-600 font-semibold hover:underline"
