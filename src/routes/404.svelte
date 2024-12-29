@@ -1,1 +1,0 @@
-<p>We've moved the forum to <a href="https://forum.stealthvalley.com">forum.stealthvalley.com</a> to make room for the new website.</p>
