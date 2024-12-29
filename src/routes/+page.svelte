@@ -115,7 +115,7 @@
       Together, we'll create a brighter future for the tech community.
     </p>
     <a
-      href="/forum"
+      href="/forum/"
       class="mt-6 inline-block bg-white text-blue-600 font-semibold py-3 px-8 rounded-lg hover:bg-gray-200"
       >Sign Up Today</a
     >
