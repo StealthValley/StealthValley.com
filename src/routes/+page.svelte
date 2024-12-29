@@ -1,8 +1,25 @@
-<!-- Hero Section -->
+<!-- Header Section -->
 <header class="bg-white shadow">
+  <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+    <!-- Logo Placeholder -->
+    <div class="text-lg font-bold text-gray-900">StealthValley</div>
+    <!-- Navigation Buttons -->
+    <div class="space-x-4">
+      <a href="/forum" class="text-blue-600 font-semibold hover:underline"
+        >The Forum</a
+      >
+      <a href="/contact" class="text-blue-600 font-semibold hover:underline"
+        >Contact Us</a
+      >
+    </div>
+  </div>
+</header>
+
+<!-- Hero Section -->
+<section class="bg-white shadow">
   <div class="container mx-auto px-6 py-16 text-center">
     <h1 class="text-4xl font-bold text-gray-900">
-      Empowering Innovators, Building Impact - Together
+      Empowering Innovators, Building Impact – Together
     </h1>
     <p class="mt-4 text-lg text-gray-600">
       StealthValley is a collaborative hub for developers and creators, driving
@@ -15,7 +32,7 @@
       >Join the Movement</a
     >
   </div>
-</header>
+</section>
 
 <!-- Mission Section -->
 <section class="bg-gray-100 py-16">
@@ -23,7 +40,7 @@
     <h2 class="text-3xl font-bold text-center text-gray-900">Our Mission</h2>
     <p class="mt-4 text-center text-gray-700">
       At StealthValley, we foster a vibrant community inspired by Silicon
-      Valley’s spirit of innovation. By sharing knowledge and mentorship, we
+      Valley's spirit of innovation. By sharing knowledge and mentorship, we
       empower members to grow, collaborate, and succeed, all while contributing
       to the broader tech ecosystem.
     </p>
@@ -95,12 +112,22 @@
     <p class="mt-4">
       Whether you're a developer, designer, or security professional,
       StealthValley offers opportunities to contribute, learn, and grow.
-      Together, we’ll create a brighter future for the tech community.
+      Together, we'll create a brighter future for the tech community.
     </p>
     <a
-      href="/stealthvalley"
+      href="/forum"
       class="mt-6 inline-block bg-white text-blue-600 font-semibold py-3 px-8 rounded-lg hover:bg-gray-200"
       >Sign Up Today</a
     >
   </div>
 </section>
+
+<!-- Footer Section -->
+<footer class="bg-gray-800 text-white py-6">
+  <div class="container mx-auto px-6 text-center">
+    <p class="text-sm">
+      &copy; 2024 StealthValley. All rights reserved. Custodial support provided
+      by PremoWeb LLC.
+    </p>
+  </div>
+</footer>
