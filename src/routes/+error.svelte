@@ -8,9 +8,9 @@
         <a href="https://forum.stealthvalley.com" class="text-blue-600 font-semibold hover:underline"
           >The Forum</a
         >
-        <a href="/contact" class="text-blue-600 font-semibold hover:underline"
+        <!-- <a href="/contact" class="text-blue-600 font-semibold hover:underline"
           >Contact Us</a
-        >
+        > -->
       </div>
     </div>
   </header>
